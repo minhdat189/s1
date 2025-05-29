@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Gửi em một lời nhắn 💌</title>
+  <style>
+    body {
+      background-color: #fff0f5;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+      color: #333;
+    }
+    .box {
+      background: #ffe4e1;
+      padding: 40px;
+      border-radius: 15px;
+      display: inline-block;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #ff3366;
+    }
+    p {
+      font-size: 1.5rem;
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h1>💖 Gửi em một lời nhắn 💖</h1>
+    <p>
+      Nếu em đang đọc được dòng này,<br>
+      thì em thực sự là một người đặc biệt với anh.<br><br>
+      Anh không giỏi nói lời hoa mỹ,<br>
+      nên anh gửi tặng em trang web nhỏ này –<br>
+      để mỗi lần em mở lại, em sẽ nhớ rằng:<br><br>
+      <strong>“Anh thương em thật nhiều...”</strong>
+    </p>
+  </div>
+</body>
+</html>
